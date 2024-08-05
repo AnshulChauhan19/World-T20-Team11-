@@ -127,7 +127,7 @@ The visual analysis was performed using Microsoft Power BI Desktop, creating var
 
 ## References:
 * [Codebasics Courses](https://github.com/AnshulChauhan19/World-T20-Team11-/wiki/_new#references)
-* [ICC Men's T20 World Cup 2022 Official Site](https://github.com/AnshulChauhan19/World-T20-Team11-/wiki/_new#references)
+* [ICC Men's T20 World Cup 2022 Official Site](https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2022-23-1298134/namibia-vs-sri-lanka-1st-match-first-round-group-a-1298135/full-scorecard))
 * [ESPN Cricinfo Match Results](https://github.com/AnshulChauhan19/World-T20-Team11-/wiki/_new#references)
 * [ESPN Cricinfo Scorecard](https://github.com/AnshulChauhan19/World-T20-Team11-/wiki/_new#references)
 * [Bright Data Collector](https://github.com/AnshulChauhan19/World-T20-Team11-/wiki/_new#references)
